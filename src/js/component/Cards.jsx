@@ -3,7 +3,7 @@ import React from "react";
 const data = [
   {
     image:
-      "https://worldredeye.com/wp-content/uploads/2019/09/17/1-dsc_9075-900x600.jpg",
+      "https://image.shutterstock.com/image-photo/haitian-food-fish-banana-lettuce-600w-1931797310.jpg",
     cardTitle: "Card title",
     cardDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14,7 +14,7 @@ const data = [
   },
   {
     image:
-      "https://miami.pinta.art/var/buenosairesphoto_com/storage/images/miami/secciones/next/245240-15-esl-AR/Next_destacado.jpg",
+      "https://image.shutterstock.com/image-photo/soup-joumou-haitian-beef-pumpkin-600w-1873722751.jpg",
     cardTitle: "Card title",
     cardDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -25,7 +25,7 @@ const data = [
   },
   {
     image:
-      "https://sfcommunityliving.org/wp-content/uploads/2020/11/lms-12_OpArt.jpg",
+      "https://image.shutterstock.com/image-photo/en-sauceserved-white-rice-black-600w-1238359159.jpg",
     cardTitle: "Card title",
     cardDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -36,7 +36,7 @@ const data = [
   },
   {
     image:
-      "https://www.nybooks.com/wp-content/uploads/2022/04/miranda_1-051222-900.jpg",
+      "https://image.shutterstock.com/image-photo/dinner-plate-flag-haiti-on-600w-326660543.jpg",
     cardTitle: "Card title",
     cardDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
